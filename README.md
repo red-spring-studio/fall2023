@@ -2,7 +2,7 @@
 
 ![A Monarch Butterfly](https://assets.codepen.io/6566924/Monarch-Butterfly+%283%29.jpeg)
 
-Images by Adobe Stock. [See License information](https://stock.adobe.com/license-terms)
+Image by Adobe Stock. [See License information](https://stock.adobe.com/license-terms)
 
 > [Exploring the decline of Monarch Butterfly populations with Python](#exploring-the-decline-of-monarch-butterfly-populations-with-python)
 > **Version 1.0: Last updated by K.S. on September 22, 2023.**
@@ -20,6 +20,11 @@ Images by Adobe Stock. [See License information](https://stock.adobe.com/license
   - [Resources Cited](#resources-cited)
 
 ---
+
+## Introduction
+
+The Monarch Butterfly, an iconic species known for its magnificent migration, has faced significant population decline over the past decades. This decline can be attributed to various factors, such as habitat loss due to urbanization and agriculture, climate change affecting migration patterns, pesticides destroying milkweed (their primary food source), and diseases (Larsen, 2019). The very factors causing the decline of the Monarch Butterfly also highlight the principles of natural selection. For example, butterflies that can find alternative food sources or adapt to changing weather patterns might have a better chance of survival and reproduction. Over time, these traits would become more prevalent in the population. The rapid environmental changes could outpace the butterflies' ability to adapt, indicating a mismatch between the speed of environmental changes and the pace of evolutionary processes (Larsen, 2019). If milkweed continues to decline, the Monarch Butterfly might face a situation where they either adapt to a new food source or face extinction. This scenario is a stark example of how evolution and natural selection are closely intertwined with environmental factors. Looking into the future, if the current threats persist, the Monarch Butterfly might undergo further evolutionary changes to survive. They might alter their migration patterns, adapt to new food sources, or even showcase reproductive changes to enhance survival chances. But, it's pivotal to remember that while species have the capability to evolve, swift environmental changes might be too rapid for natural evolutionary processes to compensate. The Monarch Butterfly's decline is not just a tale of a dwindling species but a narrative of how evolution and natural selection operate in the face of rapid environmental changes. Conservation efforts are crucial, not only for the butterflies' survival but also to preserve the intricate dance of evolution and natural selection. 
+
 
 ## Analysis of Monarch Butterfly Population Decline
 
