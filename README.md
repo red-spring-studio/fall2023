@@ -1,24 +1,8 @@
-# Exploring the decline of Monarch Butterfly populations with Python
+# Exploring the decline of Monarch Butterfly populations
 
 ![A Monarch Butterfly](https://assets.codepen.io/6566924/Monarch-Butterfly+%283%29.jpeg)
 
-Images by Adobe Stock. [See License information](https://stock.adobe.com/license-terms)
-
-> [Exploring the decline of Monarch Butterfly populations with Python](#exploring-the-decline-of-monarch-butterfly-populations-with-python)
-  - [Part 1 Analysis](#part-1-analysis)
-  - [References](#references)
-  - [Analysis of Monarch Butterfly Population Decline](#analysis-of-monarch-butterfly-population-decline)
-  - [Dataset Overview](#dataset-overview)
-  - [1. Loading the Data](#1-loading-the-data)
-  - [2. Data Preprocessing](#2-data-preprocessing)
-  - [3. Exploratory Data Analysis (EDA)](#3-exploratory-data-analysis-eda)
-    - [3.1. Overall Monarch Butterfly Count Trend](#31-overall-monarch-butterfly-count-trend)
-    - [3.2. Sites with Highest Butterfly Counts](#32-sites-with-highest-butterfly-counts)
-    - [3.3. Counties with Highest Butterfly Counts](#33-counties-with-highest-butterfly-counts)
-  - [4. Conclusions](#4-conclusions)
-  - [Resources Cited](#resources-cited)
-
----
+Image by Adobe Stock. [See License information](https://stock.adobe.com/license-terms)
 
 ## Part 1: Analysis
 
@@ -44,6 +28,26 @@ Evolution is the process of biological populations inheriting and adapting new c
 
 
 ## Step 4: Analysis of Monarch Butterfly Population Decline
+
+
+
+
+
+> [Exploring the decline of Monarch Butterfly population](#exploring-the-decline-of-monarch-butterfly-populations-with-python)
+  - [Part 1 Analysis](#part-1-analysis)
+  - [References](#references)
+  - [Analysis of Monarch Butterfly Population Decline](#analysis-of-monarch-butterfly-population-decline)
+  - [Dataset Overview](#dataset-overview)
+  - [1. Loading the Data](#1-loading-the-data)
+  - [2. Data Preprocessing](#2-data-preprocessing)
+  - [3. Exploratory Data Analysis (EDA)](#3-exploratory-data-analysis-eda)
+    - [3.1. Overall Monarch Butterfly Count Trend](#31-overall-monarch-butterfly-count-trend)
+    - [3.2. Sites with Highest Butterfly Counts](#32-sites-with-highest-butterfly-counts)
+    - [3.3. Counties with Highest Butterfly Counts](#33-counties-with-highest-butterfly-counts)
+  - [4. Conclusions](#4-conclusions)
+  - [Resources Cited](#resources-cited)
+
+---
 
 
 `README.md` 
@@ -202,9 +206,26 @@ Table of Contents
 
   
 
-- [1. Exploring the decline of Monarch Butterfly populations with Python](#1-exploring-the-decline-of-monarch-butterfly-populations-with-python)
-  - [Part 2: Questions](#part-2-questions)
+- [Exploring the decline of Monarch Butterfly populations](#exploring-the-decline-of-monarch-butterfly-populations)
+  - [Part 1: Analysis](#part-1-analysis)
+  - [Step 1: Choose 1 of the following animal situations to discuss:](#step-1-choose-1-of-the-following-animal-situations-to-discuss)
+  - [Step 2: Selected Situation: Monarch Butterfly population decline](#step-2-selected-situation-monarch-butterfly-population-decline)
+  - [Step 3: Definitions:](#step-3-definitions)
+    - [Natural Selection:](#natural-selection)
+    - [Evolution:](#evolution)
+  - [Step 4: Analysis of Monarch Butterfly Population Decline](#step-4-analysis-of-monarch-butterfly-population-decline)
+  - [**Analysis of Monarch Butterfly Population Decline Using Python**](#analysis-of-monarch-butterfly-population-decline-using-python)
+  - [Dataset Overview](#dataset-overview)
+  - [1. Loading the Data](#1-loading-the-data)
+  - [2. Data Preprocessing](#2-data-preprocessing)
+  - [3. Exploratory Data Analysis (EDA)](#3-exploratory-data-analysis-eda)
+    - [3.1. Overall Monarch Butterfly Count Trend](#31-overall-monarch-butterfly-count-trend)
+    - [3.2. Sites with Highest Butterfly Counts](#32-sites-with-highest-butterfly-counts)
+    - [3.3. Counties with Highest Butterfly Counts](#33-counties-with-highest-butterfly-counts)
+  - [4. Conclusions](#4-conclusions)
   - [Resources Cited](#resources-cited)
+  - [Part 2: Questions](#part-2-questions)
+  - [Resources Cited](#resources-cited-1)
   - [1.1. Part 1 Analysis](#11-part-1-analysis)
   - [1.2. Analysis of Monarch Butterfly Population Decline](#12-analysis-of-monarch-butterfly-population-decline)
   - [1.3. Dataset Overview](#13-dataset-overview)
