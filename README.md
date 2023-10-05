@@ -1,4 +1,3 @@
-# fall2023
 # Exploring the decline of Monarch Butterfly populations with Python
 
 ![A Monarch Butterfly](https://assets.codepen.io/6566924/Monarch-Butterfly+%283%29.jpeg)
@@ -6,6 +5,7 @@
 Images by Adobe Stock. [See License information](https://stock.adobe.com/license-terms)
 
 > [Exploring the decline of Monarch Butterfly populations with Python](#exploring-the-decline-of-monarch-butterfly-populations-with-python)
+> **Version 1.0: Last updated by K.S. on September 22, 2023.**
   - [Part 1 Analysis](#part-1-analysis)
   - [References](#references)
   - [Analysis of Monarch Butterfly Population Decline](#analysis-of-monarch-butterfly-population-decline)
